@@ -71,4 +71,4 @@ FastAPI provides an automatic, interactive Swagger UI. Once the local server is 
 http://127.0.0.1:8000/docs to test the endpoints directly from your browser.
 
 👨‍💻 Author
-Hamza Badshah Pak-Austria Fachhochschule (IAST) Haripur
+Musfira Ahmed Pak-Austria Fachhochschule (IAST) Haripur
